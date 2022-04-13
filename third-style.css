@@ -1,0 +1,15 @@
+.div1 {
+    background-color: red;
+    width: 500px;
+}
+
+.div2 {
+    width: 300px;
+    background-color: cornflowerblue;
+    display: inline-block;
+}
+
+.div3 {
+    background-color: coral;
+    display: inline;
+}
